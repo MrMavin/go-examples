@@ -23,5 +23,6 @@ func main() {
 	// errorsExample()
 	// stringer()
 	// goroutines()
-	channels()
+	// channels()
+	workers()
 }
